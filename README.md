@@ -6,7 +6,9 @@ Used Complex Parameters to drill down in worksheet and customization using Filte
 
 Created connections,join new tables,calculations to manipulate data and enable user driven parameters for visualizations.
 
+
 Used different types of customized visualization 
+
 Bar Chart
 Pie Chart
 Donut Chart
